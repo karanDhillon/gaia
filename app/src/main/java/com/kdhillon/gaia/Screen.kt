@@ -1,4 +1,4 @@
-package com.karandhillon.gaia
+package com.kdhillon.gaia
 
 sealed class Screen(
   val route: String,

@@ -1,4 +1,4 @@
-package com.karandhillon.gaia.ui.theme
+package com.kdhillon.gaia.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

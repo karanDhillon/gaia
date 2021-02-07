@@ -1,4 +1,4 @@
-package com.karandhillon.gaia
+package com.kdhillon.gaia
 
 import android.os.Bundle
 import androidx.annotation.DrawableRes
@@ -19,9 +19,9 @@ import androidx.compose.ui.platform.setContent
 import androidx.compose.ui.res.imageResource
 import androidx.compose.ui.unit.dp
 import androidx.navigation.compose.*
-import com.karandhillon.gaia.Screen.*
-import com.karandhillon.gaia.ui.theme.GaiaTheme
-import com.karandhillon.gaia.ui.theme.typography
+import com.kdhillon.gaia.Screen.*
+import com.kdhillon.gaia.ui.theme.GaiaTheme
+import com.kdhillon.gaia.ui.theme.typography
 
 class MainActivity : AppCompatActivity() {
   override fun onCreate(savedInstanceState: Bundle?) {
